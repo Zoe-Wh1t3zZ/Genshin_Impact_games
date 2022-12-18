@@ -7,4 +7,4 @@
 把img放进res根目录
 
 ## 说明
-源码来自@小红帽https://github.com/hoshino-lr和老pcr猜角色适当修改
+源码来自@小红帽"https://github.com/hoshino-lr"和老pcr猜角色适当修改
